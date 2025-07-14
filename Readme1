@@ -1,0 +1,31 @@
+# 🛠️ Office365 PowerShell Automation Toolkit
+
+A collection of PowerShell scripts to simplify and automate common administrative tasks in Microsoft 365 and Exchange Online environments.
+
+Built by Saranya Babu — IT Technology Lead with 10+ years of real-world experience in Microsoft 365, Exchange, Active Directory, and user support.
+
+## 📌 Scripts Included
+
+### 👤 User Management
+- **Bulk-User-Creation.ps1** — Create users in bulk from a CSV
+- **Reset-Password-Notify.ps1** — Reset a user password and notify by email
+
+### 🔐 Security & Compliance
+- **MFA-Status-Report.ps1** — Export MFA status for all users
+
+### 📧 Mailbox Management
+- **Export-MailboxSize.ps1** — Export size and item count for all mailboxes
+
+### 📊 Reports
+- **License-Usage-Report.ps1** — Report of current license assignments and usage
+
+## 🧪 Prerequisites
+
+- PowerShell 5.1+  
+- AzureAD / MSOnline / ExchangeOnlineManagement modules  
+- Microsoft 365 admin credentials
+
+## 👩‍💻 About Me
+
+Saranya Babu  
+IT Support Lead with expertise in Office 365 migration, hybrid setup, PowerShell scripting, and customer-centric support delivery.
